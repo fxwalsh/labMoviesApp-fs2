@@ -13,3 +13,4 @@ export const Basic: Story = {
     args: SampleMovie
 };
 Basic.storyName = "Default";
+
